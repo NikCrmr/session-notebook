@@ -13,6 +13,9 @@ Git push
 Git pus -u origin feat/header
 (-u =upstream)
 
+git empfiehlt im terminal::::
+git push --set-upstream origin notes/mac-shortcuts
+
 ---
 
 MAC shortcuts
@@ -44,7 +47,7 @@ Git pull
 
 ---
 
-****\*\*****\*****\*\*****Algemeine_Git-BEFEHLE******\*\*\*\*******\*\*******\*\*\*\*******
+\***\*\*\*\*\***\*\***\*\*\*\*\***Algemeine_Git-BEFEHLE**\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***
 
 ---
 

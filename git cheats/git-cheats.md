@@ -16,6 +16,12 @@ Git pus -u origin feat/header
 git empfiehlt im terminal::::
 git push --set-upstream origin notes/mac-shortcuts
 
+git branch
+(list all branches)
+
+git branch --delete <branchname>
+(delete branch)
+
 ---
 
 MAC shortcuts
